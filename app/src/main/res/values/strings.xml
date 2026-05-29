@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">AZkar</string>
+
+    <string name="nav_azkar">الأذكار</string>
+    <string name="nav_prayer">الصلاة</string>
+
+    <string name="prayer_times_title">أوقات الصلاة</string>
+    <string name="prayer_fajr">الفجر</string>
+    <string name="prayer_sunrise">الشروق</string>
+    <string name="prayer_dhuhr">الظهر</string>
+    <string name="prayer_asr">العصر</string>
+    <string name="prayer_maghrib">المغرب</string>
+    <string name="prayer_isha">العشاء</string>
+
+    <string name="auth_login_title">تسجيل الدخول</string>
+    <string name="auth_signup_title">إنشاء حساب</string>
+    <string name="auth_email">البريد الإلكتروني</string>
+    <string name="auth_password">كلمة المرور</string>
+    <string name="auth_login_btn">دخول</string>
+    <string name="auth_signup_btn">تسجيل جديد</string>
+    <string name="error_empty_fields">الرجاء تعبئة جميع الحقول</string>
+    <string name="error_account_not_found">هذا الحساب غير موجود!</string>
+    <string name="success_login">تم تسجيل الدخول بنجاح!</string>
+    <string name="error_wrong_password">كلمة المرور خاطئة!</string>
+    <string name="error_email_exists">هذا الإيميل مسجل مسبقاً!</string>
+    <string name="success_signup">تم إنشاء الحساب بنجاح! تفضل بالدخول</string>
+
+    <string name="prompt_signup">ليس لديك حساب؟ إنشاء حساب جديد</string>
+    <string name="prompt_login">لديك حساب بالفعل؟ سجل دخولك</string>
+    <string name="azkar_title">الأذكار وسنن الجمعة</string>
+    
+    <string name="azkar_morning_title">أذكار الصباح</string>
+    <string name="azkar_morning_text">أَصْبَحْنَا وَأَصْبَحَ الْمُلْكُ لِلَّهِ، وَالْحَمْدُ لِلَّهِ، لاَ إِلَهَ إلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ.</string>
+    
+    <string name="azkar_evening_title">أذكار المساء</string>
+    <string name="azkar_evening_text">أَمْسَيْنَا وَأَمْسَى الْمُلْكُ لِلَّهِ، وَالْحَمْدُ لِلَّهِ، لاَ إِلَهَ إلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ.</string>
+    
+    <string name="azkar_friday_title">سنن الجمعة</string>
+    <string name="azkar_friday_text">قراءة سورة الكهف، وكثرة الصلاة على النبي صلى الله عليه وسلم.</string>
+    
+    <string name="azkar_button_progress">اكمل(%1$d / %2$d)</string>
+    <string name="azkar_button_done">تم الانتهاء ✅</string>
+</resources>
