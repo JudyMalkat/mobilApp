@@ -93,7 +93,7 @@ dependencies {
     implementation(project(":core:ui"))
     implementation(project(":core:network"))
     implementation(project(":core:preferences"))
-    implementation("androidx.core:core-splashscreen:1.0.1")
+    implementation("androidx.core:core-splashscreen:1.2.0")
     // ... Features
     //implementation(project(":feature:auth"))
     //implementation(project(":feature:home"))
