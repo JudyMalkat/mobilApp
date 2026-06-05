@@ -11,7 +11,7 @@ dokkaMermaid = "0.6.0"
 secrets = "2.0.1"
 
 # ... CORE:ANDROID ...
-androidxCore = "1.18.0"
+androidxCore = "1.19.0"
 kotlinxCoroutines = "1.11.0"
 kotlinxDatetime = "0.8.0-0.6.x-compat"
 kotlinxSerializationJson = "1.11.0"
